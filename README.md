@@ -1,2 +1,2 @@
-# budget
-personal budget
+# Budget
+Personal Budget management application
